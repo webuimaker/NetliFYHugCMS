@@ -5,7 +5,7 @@ values:
   - heading: Build Smarter Generations
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
-    imageUrl: /img/about-shade-grown.jpg
+    imageUrl: img/mask.png
   - heading: Increase Community
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
