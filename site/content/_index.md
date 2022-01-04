@@ -23,6 +23,8 @@ products:
     heading: Engage
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
+  - image: img/android-chrome-192x192.png
+    text: "new why choose us content here "
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
