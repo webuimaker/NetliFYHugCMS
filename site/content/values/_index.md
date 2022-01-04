@@ -1,6 +1,6 @@
 ---
 title: Our Feature
-image: /img/about-jumbotron.jpg
+image: img/background.jpg
 values:
   - heading: Build Smarter Generations
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
