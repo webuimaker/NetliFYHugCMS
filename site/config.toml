@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://netlifydemohuschool.netlify.app/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
