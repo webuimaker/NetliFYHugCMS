@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Our Top Course
 type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
